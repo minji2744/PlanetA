@@ -1,5 +1,6 @@
 # SNU PlanetA competition
-> 지구과학 데이터를 활용해 AI 모델을 개발하는 task 4개가 주어졌습니다.
+> 지구과학 데이터를 활용해 AI 모델을 개발하는 task 4개가 주어졌습니다.   
+> 총 참가팀은 35팀이며, 제가 속한 팀 풀스톤은 [task2: 10위], [task4: 9위]를 각각 기록했습니다.
 
 - [Competition link](http://aifactory.space/page/SNUPLANETA)
 
